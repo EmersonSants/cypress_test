@@ -1,0 +1,20 @@
+{
+  "name": "desafio-qualidade",
+  "version": "1.0.0",
+  "description": "Fazer parte da Cubos significa enfrentar constantes desafios de programação. Por conta da natureza volátil do projeto (muitas coisas mudam muito rápido!), é crítico que nós da equipe de Qualidade sejamos capazes de testar e documentar funcionalidades flexíveis, pensando no longo prazo. Gostamos muito de alterar nossas telas para ver como nossos usuários reagem, mas se todas essas mudanças fossem hardcoded, certamente teríamos um grande problema! 😛",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.cubos.io/cubos/desafio-qualidade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  }
+}
